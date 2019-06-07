@@ -1,0 +1,9 @@
+source 'http://rubygems.org'
+
+gem 'capybara', '~> 3.14.0'
+gem 'cucumber'
+gem 'pry'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'childprocess', '~> 0.9.0'
